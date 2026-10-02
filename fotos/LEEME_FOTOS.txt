@@ -1,0 +1,9 @@
+Pon aquí tus fotos con los nombres indicados en LEEME.txt.
+Ejemplos:
+- b1_1.jpg
+- b1_2.jpg
+- b2_1.jpg
+- b7_4.jpg
+- final_1.jpg
+- final_2.jpg
+- final_3.jpg

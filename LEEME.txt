@@ -1,0 +1,24 @@
+FRANCISCO · BILLAR DE RECUERDOS
+
+Diseño conservado: azul oscuro + telarañas + mesa azul + carruseles + cierre final.
+
+CONTROLES
+1. Mueve/toca la mesa para apuntar: la línea blanca marca la dirección.
+2. Ajusta la fuerza con la barra inferior.
+3. Toca una vez sobre la mesa para disparar (o doble clic en PC).
+4. Cada bola del 1 al 7 desbloquea un carrusel de fotos.
+5. La bola 8 solo activa el cierre final después de desbloquear los 7 recuerdos.
+
+FOTOS
+b1_1.jpg, b1_2.jpg... = Barrio / primeros años
+b2_1.jpg, b2_2.jpg... = Instituto
+b3_1.jpg, b3_2.jpg... = Sonda
+b4_1.jpg, b4_2.jpg... = NCR
+b5_1.jpg, b5_2.jpg... = Cencosud
+b6_1.jpg, b6_2.jpg... = Viajes
+b7_1.jpg, b7_2.jpg... = Logros importantes
+
+CIERRE
+final_1.jpg
+final_2.jpg
+final_3.jpg
